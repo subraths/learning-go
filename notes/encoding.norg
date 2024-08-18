@@ -1,0 +1,4 @@
+** Notes template
+   - Create a dir called notes
+   - write chapter wise files eg: if chapter name is std library: std_lib.norg
+   - Each chapter will have headers with the section name and bullets points
